@@ -1,0 +1,17 @@
+header {
+  background-color: #008dc7;
+  width: auto;
+  height: 250px;
+}
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: fantasy;
+  font-size: 45px;
+  margin: 0;
+}
